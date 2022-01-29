@@ -1,6 +1,6 @@
 import {Skill} from "./skill.model";
 
-export class Developer {
+export class Developper {
   public lastName: string;
   public firstName: string;
   public age: number;
